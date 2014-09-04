@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.ComponentModel;
 using System.Text.RegularExpressions;
-using Gala.TestData.Serialization;
 using System.Xml;
 
-namespace Gala.TestData.ServerData
+namespace Steps
 {
    /// <summary>
    /// Represents a range of values that some property can take on (ie temperature, voltage, etc)
